@@ -1,0 +1,5 @@
+Hello Luke,
+How are you?
+I believe I have figured out how to do this git thing.
+Yours Sincerely,
+Ford Wagner
