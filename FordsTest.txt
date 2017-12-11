@@ -3,3 +3,9 @@ How are you?
 I believe I have figured out how to do this git thing.
 Yours Sincerely,
 Ford Wagner
+
+Dear Ford,
+I am very well my good sir, thank you for enquiring
+I believe I, too, am on my way to understanding this git thing
+Deepest Regards,
+Luke Longworth
