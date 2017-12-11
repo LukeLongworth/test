@@ -4,6 +4,14 @@ I believe I have figured out how to do this git thing.
 Yours Sincerely,
 Ford Wagner
 
+<<<<<<< HEAD
 P.S. I like the new office
 
 P.S.S I really hope this ssh key works this time
+=======
+Dear Ford,
+I am very well my good sir, thank you for enquiring
+I believe I, too, am on my way to understanding this git thing
+Deepest Regards,
+Luke Longworth
+>>>>>>> eafb1dd3869d1d18dc25a558c6ecd0f4186b265d
